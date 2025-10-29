@@ -3,7 +3,7 @@ My first repository
 
 # My Favorite Series: Attack on Titan
 
-![Attack on Titan Banner](https://upload.wikimedia.org/wikipedia/en/7/77/Shingeki_no_Kyojin_manga_volume_1.jpg)
+![Attack on Titan Banner](https://timelinecovers.pro/facebook-cover/download/attack-on-titan-eren-yeager-facebook-cover.jpg)
 
 ## Overview
 **Attack on Titan** is a Japanese anime and manga series created by *Hajime Isayama*.  
